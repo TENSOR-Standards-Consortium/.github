@@ -1,7 +1,5 @@
 # TENSOR Standards Consortium
 
-[![License: Apache 2.0](https://img.shields.io/badge/license-Apache_2.0-blue)](../LICENSE) [![Status: Draft](https://img.shields.io/badge/status-pre--1.0-orange)](#draft-status) [![Accessibility: WCAG AA](https://img.shields.io/badge/accessibility-WCAG_AA-brightgreen)](https://www.w3.org/TR/WCAG21/) [![Made with Love](https://img.shields.io/badge/made%20with-%E2%9D%A4-lightgrey)](#)
-
 Welcome to the **TENSOR Standards Consortium** — the global, vendor‐neutral community dedicated to advancing open, extensible cybersecurity standards.
 
 > **Threat Evaluation & Neutralization through Structured Organizational Resilience**
